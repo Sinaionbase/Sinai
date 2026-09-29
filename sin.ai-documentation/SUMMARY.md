@@ -1,0 +1,17 @@
+# Table of contents
+
+* [SIN.AI Documentation](README.md)
+* [SIN.AI — Overview](sin.ai-overview.md)
+* [Vision & Mission](vision-and-mission.md)
+* [Trading Agents](trading-agents.md)
+* [How Agents Trade](how-agents-trade.md)
+* [Risk Engine](risk-engine.md)
+* [Inside the Agent](inside-the-agent.md)
+* [AI Agent Ecosystem](ai-agent-ecosystem.md)
+* [Architecture](architecture.md)
+* [Built on Base](built-on-base.md)
+* [Security & Transparency](security-and-transparency.md)
+* [Token & Utility](token-and-utility.md)
+* [Audit & Certification](audit-and-certification.md)
+* [Roadmap](roadmap.md)
+* [Risks & Disclaimer](risks-and-disclaimer.md)
