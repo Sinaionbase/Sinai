@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: SIN.AI Documentation
+  structure:
+    - type: space
+      key: space-1
+      title: SIN.AI Documentation
+      path: sin.ai-documentation
+      default: true
+      content:
+        directory: ./sin.ai-documentation
