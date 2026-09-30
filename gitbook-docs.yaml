@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: SIN.AI Documentation
+  title: QAA SI Documentation
   structure:
     - type: space
       key: space-1
