@@ -1,14 +1,14 @@
 ---
-description: Product thesis, design principles and scope of the SIN.AI ecosystem.
+description: Product thesis, design principles and scope of the QAA SI ecosystem.
 ---
 
-# SIN.AI — Overview
+# QAA SI — Overview
 
-SIN.AI is being designed as an AI-agent ecosystem that combines intelligent autonomous software with blockchain-based infrastructure on Base.
+QAA SI is being designed as an AI-agent ecosystem that combines intelligent autonomous software with blockchain-based infrastructure on Base.
 
 The project is structured so that product capabilities, technical architecture, token mechanics and security controls can be documented independently and verified as they mature.
 
-## What SIN.AI is designed to enable
+## What QAA SI is designed to enable
 
 * **Specialized AI agents** for research, analysis, automation and digital workflows.
 * **Tool-enabled execution** through explicitly authorized APIs, integrations and services.

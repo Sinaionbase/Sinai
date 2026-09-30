@@ -1,5 +1,5 @@
 ---
-description: The long-term direction and operating mission behind SIN.AI.
+description: The long-term direction and operating mission behind QAA SI.
 icon: bullseye
 ---
 
@@ -7,7 +7,7 @@ icon: bullseye
 
 ## Vision
 
-SIN.AI aims to build an ecosystem in which AI agents can help users complete complex digital workflows while blockchain infrastructure provides transparent ownership, settlement and verifiable economic coordination.
+QAA SI aims to build an ecosystem in which AI agents can help users complete complex digital workflows while blockchain infrastructure provides transparent ownership, settlement and verifiable economic coordination.
 
 The long-term direction is not simply to add AI to a crypto product or add a token to an AI interface. The architecture is intended to keep **intelligence**, **execution**, **authorization** and **economic infrastructure** clearly separated so each layer can be improved and audited independently.
 
@@ -25,7 +25,7 @@ The mission is to make sophisticated AI-agent capabilities accessible through a 
 
 ## Design philosophy
 
-SIN.AI documentation separates what is **live**, **in development** and **planned**. The purpose is to make the project understandable without turning future concepts into present-tense claims.
+QAA SI documentation separates what is **live**, **in development** and **planned**. The purpose is to make the project understandable without turning future concepts into present-tense claims.
 
 {% hint style="success" %}
 A feature becomes part of the documented production system only when its implementation, permissions and operational limitations can be described accurately.

@@ -1,13 +1,13 @@
 ---
 description: >-
-  How SIN.AI agents reason, use tools, verify results and remain under human
+  How QAA SI agents reason, use tools, verify results and remain under human
   control.
 icon: brain-circuit
 ---
 
 # AI Agent Ecosystem
 
-AI agents are the central product concept of SIN.AI. An agent is software designed to interpret a user objective, reason over available context, select permitted tools and execute defined actions within explicit boundaries.
+AI agents are the central product concept of QAA SI. An agent is software designed to interpret a user objective, reason over available context, select permitted tools and execute defined actions within explicit boundaries.
 
 ## Agent lifecycle
 

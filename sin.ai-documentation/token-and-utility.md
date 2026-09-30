@@ -1,13 +1,13 @@
 ---
 description: >-
   Token allocation, liquidity structure and planned vesting framework for the
-  SIN.AI ecosystem.
+  QAA SI ecosystem.
 icon: coins
 ---
 
 # Token & Utility
 
-The SIN.AI token is intended to support the broader agent ecosystem. Token utility will be documented alongside implemented product functionality so that ecosystem claims remain tied to concrete technical use cases.
+The QAA SI token is intended to support the broader agent ecosystem. Token utility will be documented alongside implemented product functionality so that ecosystem claims remain tied to concrete technical use cases.
 
 {% hint style="info" %}
 **Current tokenomics framework:** Total supply is **1,000,000,000 tokens**. Allocation percentages below reconcile to 100%. Vesting and liquidity deployment details are shown at the level currently defined; exact dates, wallet addresses and execution parameters can be added once finalized.

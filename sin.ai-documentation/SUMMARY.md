@@ -1,7 +1,7 @@
 # Table of contents
 
-* [SIN.AI Documentation](README.md)
-* [SIN.AI — Overview](sin.ai-overview.md)
+* [QAA SI Documentation](README.md)
+* [QAA SI — Overview](qaa-si-overview.md)
 * [Vision & Mission](vision-and-mission.md)
 * [Trading Agents](trading-agents.md)
 * [How Agents Trade](how-agents-trade.md)

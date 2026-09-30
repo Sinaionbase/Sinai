@@ -1,13 +1,13 @@
 ---
 description: >-
-  A transparent view of the SIN.AI trading loop, from market observation to
+  A transparent view of the QAA SI trading loop, from market observation to
   execution and post-trade monitoring.
 icon: arrows-rotate
 ---
 
 # How Agents Trade
 
-A professional autonomous trading system should make the path from information to action understandable. SIN.AI is therefore designed around a staged trading loop rather than a single opaque model output.
+A professional autonomous trading system should make the path from information to action understandable. QAA SI is therefore designed around a staged trading loop rather than a single opaque model output.
 
 {% stepper %}
 {% step %}
@@ -74,4 +74,4 @@ An autonomous agent should not be forced to trade. If conditions are weak, data 
 Autonomous trading does not remove market risk. AI models can be wrong, market conditions can change quickly, and execution can differ from expected results.
 {% endhint %}
 
-[See the controls that can block or constrain an action →](risk-engine.md)
+See the controls that can block or constrain an action →

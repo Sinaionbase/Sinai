@@ -1,13 +1,13 @@
 ---
 description: >-
-  A technical transparency layer showing what a SIN.AI agent can see, decide,
+  A technical transparency layer showing what a QAA SI agent can see, decide,
   request, and execute.
 icon: microchip
 ---
 
 # Inside the Agent
 
-**Inside the Agent** is the transparency layer of the SIN.AI documentation. Instead of presenting an AI agent as a black box, this section defines the boundaries between information, reasoning, permission, risk, and execution.
+**Inside the Agent** is the transparency layer of the QAA SI documentation. Instead of presenting an AI agent as a black box, this section defines the boundaries between information, reasoning, permission, risk, and execution.
 
 ## The five boundaries
 

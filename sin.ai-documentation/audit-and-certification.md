@@ -1,13 +1,13 @@
 ---
 description: >-
-  Security verification for the SIN.AI token and related smart contracts,
+  Security verification for the QAA SI token and related smart contracts,
   including automated scans and a planned independent audit.
 icon: shield-check
 ---
 
 # Audit & Certification
 
-SIN.AI will use multiple layers of security verification. Automated scanners can provide useful public checks before launch, while an independent manual audit remains a separate future step.
+QAA SI will use multiple layers of security verification. Automated scanners can provide useful public checks before launch, while an independent manual audit remains a separate future step.
 
 ## Automated security scans
 
@@ -37,7 +37,7 @@ The independent audit scope is expected to cover the final token contract and an
 Once an independent audit has been completed, this page will be updated with the official auditor, report, scope, completion date and verification link.
 
 {% hint style="warning" %}
-SIN.AI will only describe a contract as **audited** or **certified** when an official, independently verifiable audit or certification report exists. Automated scanner results will remain clearly labeled as automated security checks.
+QAA SI will only describe a contract as **audited** or **certified** when an official, independently verifiable audit or certification report exists. Automated scanner results will remain clearly labeled as automated security checks.
 {% endhint %}
 
 ## Verification standard

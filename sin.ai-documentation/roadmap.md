@@ -1,11 +1,11 @@
 ---
-description: Product, infrastructure and ecosystem milestones for SIN.AI.
+description: Product, infrastructure and ecosystem milestones for QAA SI.
 icon: route
 ---
 
 # Roadmap
 
-The SIN.AI roadmap tracks product and ecosystem milestones rather than price targets. Dates are added only when they represent an actual development commitment.
+The QAA SI roadmap tracks product and ecosystem milestones rather than price targets. Dates are added only when they represent an actual development commitment.
 
 ## Phase 1 — Foundation
 

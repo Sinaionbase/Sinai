@@ -7,7 +7,7 @@ icon: diagram-project
 
 # Architecture
 
-SIN.AI is designed as a layered system so that intelligence, application logic, authorization and blockchain execution can evolve independently.
+QAA SI is designed as a layered system so that intelligence, application logic, authorization and blockchain execution can evolve independently.
 
 ```mermaid
 flowchart TB
@@ -42,7 +42,7 @@ The policy layer determines whether a proposed action is allowed, requires confi
 
 ## 5. Blockchain layer
 
-SIN.AI is planned around **Base** for blockchain infrastructure. On-chain components may include token functionality, smart-contract interactions, treasury operations and other ecosystem mechanisms once finalized.
+QAA SI is planned around **Base** for blockchain infrastructure. On-chain components may include token functionality, smart-contract interactions, treasury operations and other ecosystem mechanisms once finalized.
 
 ## Security boundary
 
