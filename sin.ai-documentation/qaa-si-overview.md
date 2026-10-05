@@ -1,14 +1,14 @@
 ---
-description: Product thesis, design principles and scope of the QAA SI ecosystem.
+description: Product thesis, design principles and scope of the Qaa Si ecosystem.
 ---
 
-# QAA SI — Overview
+# Qaa Si — Overview
 
-QAA SI is being designed as an AI-agent ecosystem that combines intelligent autonomous software with blockchain-based infrastructure on Base.
+Qaa Si is being designed as an AI-agent ecosystem that combines intelligent autonomous software with blockchain-based infrastructure on Base.
 
 The project is structured so that product capabilities, technical architecture, token mechanics and security controls can be documented independently and verified as they mature.
 
-## What QAA SI is designed to enable
+## What Qaa Si is designed to enable
 
 * **Specialized AI agents** for research, analysis, automation and digital workflows.
 * **Tool-enabled execution** through explicitly authorized APIs, integrations and services.

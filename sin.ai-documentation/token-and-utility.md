@@ -1,13 +1,13 @@
 ---
 description: >-
   Token allocation, liquidity structure and planned vesting framework for the
-  QAA SI ecosystem.
+  Qaa Si ecosystem.
 icon: coins
 ---
 
 # Token & Utility
 
-The QAA SI token is intended to support the broader agent ecosystem. Token utility will be documented alongside implemented product functionality so that ecosystem claims remain tied to concrete technical use cases.
+The Qaa Si token is intended to support the broader agent ecosystem. Token utility will be documented alongside implemented product functionality so that ecosystem claims remain tied to concrete technical use cases.
 
 {% hint style="info" %}
 **Current tokenomics framework:** Total supply is **1,000,000,000 tokens**. Allocation percentages below reconcile to 100%. Vesting, wallet and liquidity-lock details are shown at the level currently defined; exact dates, addresses and execution parameters will be added once finalized.
@@ -29,7 +29,7 @@ The allocation is intentionally liquidity-heavy and keeps the team allocation li
 
 ## Liquidity Pool
 
-The **70% liquidity allocation** is designated for the QAA SI liquidity pool. There is **no separate future-liquidity reserve allocation** in this framework.
+The **70% liquidity allocation** is designated for the Qaa Si liquidity pool. There is **no separate future-liquidity reserve allocation** in this framework.
 
 | Item               | Share of total supply |          Tokens | Planned treatment                                                                                                               |
 | ------------------ | --------------------: | --------------: | ------------------------------------------------------------------------------------------------------------------------------- |

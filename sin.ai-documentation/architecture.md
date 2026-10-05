@@ -7,7 +7,7 @@ icon: diagram-project
 
 # Architecture
 
-QAA SI is designed as a layered system so that intelligence, application logic, authorization and blockchain execution can evolve independently.
+Qaa Si is designed as a layered system so that intelligence, application logic, authorization and blockchain execution can evolve independently.
 
 ```mermaid
 flowchart TB
@@ -42,7 +42,7 @@ The policy layer determines whether a proposed action is allowed, requires confi
 
 ## 5. Blockchain layer
 
-QAA SI is planned around **Base** for blockchain infrastructure. On-chain components may include token functionality, smart-contract interactions, treasury operations and other ecosystem mechanisms once finalized.
+Qaa Si is planned around **Base** for blockchain infrastructure. On-chain components may include token functionality, smart-contract interactions, treasury operations and other ecosystem mechanisms once finalized.
 
 ## Security boundary
 

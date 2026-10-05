@@ -1,11 +1,11 @@
 ---
-description: Product, infrastructure and ecosystem milestones for QAA SI.
+description: Product, infrastructure and ecosystem milestones for Qaa Si.
 icon: route
 ---
 
 # Roadmap
 
-The QAA SI roadmap tracks product and ecosystem milestones rather than price targets. Dates are added only when they represent an actual development commitment.
+The Qaa Si roadmap tracks product and ecosystem milestones rather than price targets. Dates are added only when they represent an actual development commitment.
 
 ## Phase 1 — Foundation
 

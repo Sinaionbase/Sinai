@@ -1,6 +1,6 @@
 ---
 description: >-
-  The core QAA SI product: autonomous trading agents designed to analyze
+  The core Qaa Si product: autonomous trading agents designed to analyze
   markets, operate within defined permissions, and execute governed trading
   workflows.
 icon: robot
@@ -8,10 +8,10 @@ icon: robot
 
 # Trading Agents
 
-QAA SI is being designed around autonomous trading agents that can monitor markets, interpret data, evaluate opportunities, and execute approved trading workflows within explicit risk and permission boundaries.
+Qaa Si is being designed around autonomous trading agents that can monitor markets, interpret data, evaluate opportunities, and execute approved trading workflows within explicit risk and permission boundaries.
 
 {% hint style="info" %}
-**Product status:** This page describes the intended QAA SI trading-agent architecture. Specific exchanges, strategies, assets, execution venues, and production capabilities should be marked **Live**, **Beta**, **In Development**, or **Planned** as they are verified.
+**Product status:** This page describes the intended Qaa Si trading-agent architecture. Specific exchanges, strategies, assets, execution venues, and production capabilities should be marked **Live**, **Beta**, **In Development**, or **Planned** as they are verified.
 {% endhint %}
 
 ## What makes an agent autonomous?
@@ -36,7 +36,7 @@ flowchart LR
 
 ## Agent profiles
 
-QAA SI can support specialized agents rather than forcing every strategy into one model. Potential profiles can include market scanning, trend following, mean reversion, portfolio coordination, execution, and risk oversight.
+Qaa Si can support specialized agents rather than forcing every strategy into one model. Potential profiles can include market scanning, trend following, mean reversion, portfolio coordination, execution, and risk oversight.
 
 Exact agent profiles will only be listed as product capabilities once their behavior, permissions, supported markets, and status are confirmed.
 

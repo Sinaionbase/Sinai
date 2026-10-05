@@ -7,7 +7,7 @@ icon: hexagon-nodes
 
 # Built on Base
 
-QAA SI is planned to use **Base** as its blockchain foundation for future on-chain ecosystem components.
+Qaa Si is planned to use **Base** as its blockchain foundation for future on-chain ecosystem components.
 
 Blockchain infrastructure can provide transparent transaction settlement, token ownership and auditable smart-contract state. The documentation will distinguish between project plans and contracts that are actually deployed and verified.
 
@@ -30,7 +30,7 @@ When available, this page will publish the authoritative technical references fo
 {% step %}
 ### Official publication
 
-A deployment detail is published through verified QAA SI documentation or another official channel.
+A deployment detail is published through verified Qaa Si documentation or another official channel.
 {% endstep %}
 
 {% step %}
@@ -47,5 +47,5 @@ The address, version and described permissions must match the deployed implement
 {% endstepper %}
 
 {% hint style="danger" %}
-No token contract, treasury address or liquidity claim should be considered official solely because it uses the QAA SI name. Verify against the official documentation before interacting with any on-chain component.
+No token contract, treasury address or liquidity claim should be considered official solely because it uses the Qaa Si name. Verify against the official documentation before interacting with any on-chain component.
 {% endhint %}

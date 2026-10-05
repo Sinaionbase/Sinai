@@ -7,7 +7,7 @@ icon: triangle-exclamation
 
 # Risks & Disclaimer
 
-QAA SI combines emerging technologies, including artificial intelligence, external software integrations and blockchain systems. Each introduces material technical, operational and economic risks.
+Qaa Si combines emerging technologies, including artificial intelligence, external software integrations and blockchain systems. Each introduces material technical, operational and economic risks.
 
 ## Key risk categories
 
@@ -26,7 +26,7 @@ QAA SI combines emerging technologies, including artificial intelligence, extern
 Users should independently evaluate relevant risks, verify official contract information and understand transaction consequences before interacting with blockchain components.
 
 {% hint style="danger" %}
-Do not send funds or sign transactions based only on an unverified address, social-media post, direct message or third-party listing. Confirm official deployment information against QAA SI documentation.
+Do not send funds or sign transactions based only on an unverified address, social-media post, direct message or third-party listing. Confirm official deployment information against Qaa Si documentation.
 {% endhint %}
 
 ## Disclaimer

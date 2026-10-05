@@ -1,7 +1,7 @@
 ---
 description: >-
   Security boundaries, contract transparency and verification standards across
-  QAA SI.
+  Qaa Si.
 icon: shield-check
 ---
 

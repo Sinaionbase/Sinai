@@ -5,19 +5,19 @@ description: >-
 icon: brain-circuit
 ---
 
-# QAA SI Documentation
+# Qaa Si Documentation
 
 ## Autonomous intelligence for the markets.
 
-QAA SI is being built around **autonomous trading agents** — intelligent software agents designed to observe markets, reason over signals and context, propose or execute trading actions within defined permissions, and continuously monitor risk.
+Qaa Si is being built around **autonomous trading agents** — intelligent software agents designed to observe markets, reason over signals and context, propose or execute trading actions within defined permissions, and continuously monitor risk.
 
 The objective is not uncontrolled automation. The system is designed around a clear separation between **intelligence**, **risk authorization**, and **execution**.
 
 {% hint style="info" %}
-**Development status:** QAA SI is under active development. Capabilities are documented as **Live**, **Beta**, **In Development**, or **Planned**. Exchange support, strategy availability, tokenomics, contract addresses and launch parameters are only presented as live when they are finalized and verifiable.
+**Development status:** Qaa Si is under active development. Capabilities are documented as **Live**, **Beta**, **In Development**, or **Planned**. Exchange support, strategy availability, tokenomics, contract addresses and launch parameters are only presented as live when they are finalized and verifiable.
 {% endhint %}
 
-## The QAA SI trading system
+## The Qaa Si trading system
 
 ```mermaid
 flowchart LR
@@ -68,13 +68,13 @@ The control layer answers: **What is actually allowed to happen?**
 
 ## Beyond trading
 
-QAA SI is designed as a broader AI-agent ecosystem. Trading is the flagship use case, while the underlying architecture can support research, analysis, workflow automation, integrations and future on-chain interactions.
+Qaa Si is designed as a broader AI-agent ecosystem. Trading is the flagship use case, while the underlying architecture can support research, analysis, workflow automation, integrations and future on-chain interactions.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>◎</h3></td><td><strong>Overview</strong></td><td>Product thesis, design principles and documentation model.</td><td></td></tr><tr><td><h3>◇</h3></td><td><strong>Architecture</strong></td><td>The intelligence, orchestration, integration and blockchain layers behind QAA SI.</td><td></td></tr><tr><td><h3>⬡</h3></td><td><strong>Built on Base</strong></td><td>Planned blockchain infrastructure and the verification model for official deployments.</td><td></td></tr><tr><td><h3>⌁</h3></td><td><strong>Security &#x26; Transparency</strong></td><td>Security boundaries, contract transparency and verification standards.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>◎</h3></td><td><strong>Overview</strong></td><td>Product thesis, design principles and documentation model.</td><td></td></tr><tr><td><h3>◇</h3></td><td><strong>Architecture</strong></td><td>The intelligence, orchestration, integration and blockchain layers behind Qaa Si.</td><td></td></tr><tr><td><h3>⬡</h3></td><td><strong>Built on Base</strong></td><td>Planned blockchain infrastructure and the verification model for official deployments.</td><td></td></tr><tr><td><h3>⌁</h3></td><td><strong>Security &#x26; Transparency</strong></td><td>Security boundaries, contract transparency and verification standards.</td><td></td></tr></tbody></table>
 
-## Join the QAA SI community
+## Join the Qaa Si community
 
-Connect with QAA SI through our official community channels. These profiles are being prepared and will be linked here once they are live and verified.
+Connect with Qaa Si through our official community channels. These profiles are being prepared and will be linked here once they are live and verified.
 
 {% columns %}
 {% column width="33%" %}
@@ -103,7 +103,7 @@ Official news, releases and ecosystem updates.
 {% endcolumns %}
 
 {% hint style="info" %}
-Only links published in this documentation or other verified QAA SI channels should be treated as official.
+Only links published in this documentation or other verified Qaa Si channels should be treated as official.
 {% endhint %}
 
 {% hint style="warning" %}

@@ -1,13 +1,13 @@
 ---
 description: >-
-  A transparent view of the QAA SI trading loop, from market observation to
+  A transparent view of the Qaa Si trading loop, from market observation to
   execution and post-trade monitoring.
 icon: arrows-rotate
 ---
 
 # How Agents Trade
 
-A professional autonomous trading system should make the path from information to action understandable. QAA SI is therefore designed around a staged trading loop rather than a single opaque model output.
+A professional autonomous trading system should make the path from information to action understandable. Qaa Si is therefore designed around a staged trading loop rather than a single opaque model output.
 
 {% stepper %}
 {% step %}

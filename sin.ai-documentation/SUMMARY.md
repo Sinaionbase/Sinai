@@ -1,7 +1,7 @@
 # Table of contents
 
-* [QAA SI Documentation](README.md)
-* [QAA SI — Overview](qaa-si-overview.md)
+* [Qaa Si Documentation](README.md)
+* [Qaa Si — Overview](qaa-si-overview.md)
 * [Vision & Mission](vision-and-mission.md)
 * [Trading Agents](trading-agents.md)
 * [How Agents Trade](how-agents-trade.md)
